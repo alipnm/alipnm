@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on learning python.
 - 🌱 I’m currently learning python.
-- 👯 I’m looking to collaborate on develop programming.
+- 👯 I’m looking to collaborate on developing programming.
 - 😍 I love programming and making games.
