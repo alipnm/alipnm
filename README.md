@@ -2,3 +2,4 @@
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on developing programming.
 - 😍 I love programming and making games.
+- 🎯 My goal is to master python.
