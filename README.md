@@ -7,8 +7,8 @@ And maybe, I would be an AI programmer, I prefer the fullstack one!
 
 ## 🕵️ About Me
 
-- I am **Ali Pishnamazzadeh**, as I said. I have twelve years old, and I'm male.
-- I love **progrgamming**, **solving math problems**, and **playing Tonbak**
+- I am **Ali Pishnamazzadeh**, as I said. I have thirteen years old, and I'm male.
+- I love **programming**, **solving math problems**, and **playing Tonbak**
   > **_Tonbak_**, is an instrument like drum, used in traditional iranian musics.
 - I love **swimming**, **basketball**, and **football**.
 
