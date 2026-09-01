@@ -16,14 +16,14 @@ And maybe, I would be an AI programmer, I prefer the fullstack one!
 
 **_1. Python Programming Language_**
 
-- It is two years that I'm working on python programming language.
+- It is three years that I'm working on python programming language.
 - I know how to make games with **pygame** library, and turning it to an exe file.
 - I know how to work with **tkinter**.
 - I'm working on how to make an app with **PyQt5**.
 - I'm working on connecting to database with python using **psycopg2**,
   and fetching, removing and adding data to a database.
 - I am soon going to learn making a full website, covering the backend with
-  Python programming language and its strong tools like jango, and etc.
+  Python programming language and its strong tools like django, and etc.
 - I know how to **hash passwords** using the **cryptography** and **hashlib** libraries.
 - I know how to implement **brute force attack** and **fishing attack** using python.
 
